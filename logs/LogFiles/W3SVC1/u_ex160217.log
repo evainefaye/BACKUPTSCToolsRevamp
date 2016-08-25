@@ -1,0 +1,70 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-17 00:26:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-17 00:26:14 ::1 DEBUG /SashaChatHelp/debugattach.aspx - 80 - ::1 - - 401 2 5 29891
+2016-02-17 00:26:14 ::1 DEBUG /SashaChatHelp/debugattach.aspx - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 - - 500 0 0 386
+2016-02-17 00:26:27 ::1 GET /SashaChatHelp/Sasha.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 2 5 52
+2016-02-17 00:26:33 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 2 5 11
+2016-02-17 00:26:33 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 2 5 1
+2016-02-17 00:27:10 ::1 GET /SignalRChat/ - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 2 5 5347
+2016-02-17 00:27:13 ::1 GET /SignalRChat/ - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 1 3221225581 48
+2016-02-17 00:27:14 ::1 GET /SignalRChat/ - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 1 3221225581 5
+2016-02-17 00:27:18 ::1 GET /SignalRChat/ - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 1 3221225581 6
+2016-02-17 00:27:25 ::1 GET /SignalRChat/ - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 200 0 0 3977
+2016-02-17 00:27:26 ::1 GET /signalr/hubs - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SignalRChat/ 404 0 2 563
+2016-02-17 00:27:26 ::1 GET /favicon.ico - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 404 0 2 14
+2016-02-17 00:27:26 ::1 GET /favicon.ico - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 404 0 2 38
+2016-02-17 00:28:16 ::1 DEBUG /SashaChatHelp/debugattach.aspx - 80 - ::1 - - 401 2 5 12917
+2016-02-17 00:28:16 ::1 DEBUG /SashaChatHelp/debugattach.aspx - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 - - 200 0 0 25
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-17 01:11:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-17 01:11:50 ::1 DEBUG /SashaChatHelp/debugattach.aspx - 80 - ::1 - - 401 2 64 105515
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-02-17 01:46:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-02-17 01:46:27 ::1 DEBUG /SashaChatHelp/Sasha/debugattach.aspx - 80 - ::1 - - 401 2 5 26281
+2016-02-17 01:46:27 ::1 DEBUG /SashaChatHelp/Sasha/debugattach.aspx - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 - - 500 0 0 546
+2016-02-17 01:47:00 ::1 GET /SashaChatHelp/Sasha/index.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 2 5 7
+2016-02-17 01:47:03 ::1 GET /SashaChatHelp/Sasha/index.html - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 200 0 0 12
+2016-02-17 01:47:03 ::1 GET /SashaChatHelp/Sasha/Sasha.js - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 401 2 5 15
+2016-02-17 01:47:03 ::1 GET /SashaChatHelp/Sasha/Scripts/jquery-2.2.0.min.js - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 404 0 2 103
+2016-02-17 01:47:03 ::1 GET /SashaChatHelp/Sasha/Sasha.js - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 200 0 0 182
+2016-02-17 01:47:03 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 2 5 2
+2016-02-17 01:47:03 ::1 GET /favicon.ico - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 404 0 2 2
+2016-02-17 01:47:03 ::1 GET /favicon.ico - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 404 0 2 0
+2016-02-17 01:47:23 ::1 GET /SashaChatHelp/Sasha/index.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 2 5 0
+2016-02-17 01:47:23 ::1 GET /SashaChatHelp/Sasha/index.html - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 200 0 0 4
+2016-02-17 01:47:23 ::1 GET /SashaChatHelp/Sasha/Scripts/jquery-2.2.0.min.js - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 404 0 2 12
+2016-02-17 01:47:23 ::1 GET /SashaChatHelp/Sasha/Sasha.js - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 401 2 5 12
+2016-02-17 01:47:23 ::1 GET /SashaChatHelp/Sasha/Sasha.js - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 200 0 0 4
+2016-02-17 01:47:58 ::1 DEBUG /SashaChatHelp/Sasha/debugattach.aspx - 80 - ::1 - - 401 2 5 13106
+2016-02-17 01:47:58 ::1 DEBUG /SashaChatHelp/Sasha/debugattach.aspx - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 - - 200 0 0 10
+2016-02-17 01:48:30 ::1 DEBUG /SashaChatHelp/Sasha/debugattach.aspx - 80 - ::1 - - 401 2 5 11459
+2016-02-17 01:48:30 ::1 DEBUG /SashaChatHelp/Sasha/debugattach.aspx - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 - - 500 0 0 6
+2016-02-17 01:48:34 ::1 GET /SashaChatHelp/Sasha/Scripts/jquery-2.2.0.min.js - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 500 0 0 1269
+2016-02-17 01:48:38 ::1 GET /SashaChatHelp/Sasha/Scripts/jquery-2.2.0.min.js - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 500 0 0 64
+2016-02-17 01:48:41 ::1 GET /SashaChatHelp/Sasha/index.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 2 5 2
+2016-02-17 01:48:41 ::1 GET /SashaChatHelp/Sasha/index.html - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 200 0 0 6
+2016-02-17 01:48:41 ::1 GET /SashaChatHelp/Sasha/Sasha.js - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 401 2 5 1
+2016-02-17 01:48:41 ::1 GET /SashaChatHelp/Scripts/jquery-2.2.0.min.js - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 200 0 0 31
+2016-02-17 01:48:41 ::1 GET /SashaChatHelp/Sasha/Sasha.js - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 200 0 0 3
+2016-02-17 01:48:42 ::1 GET /signalr/hubs _=1455673721932 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 404 0 2 418
+2016-02-17 01:48:47 ::1 GET /SashaChatHelp/Sasha/index.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 401 2 5 6
+2016-02-17 01:48:47 ::1 GET /SashaChatHelp/Sasha/index.html - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 200 0 0 2
+2016-02-17 01:48:47 ::1 GET /SashaChatHelp/Sasha/Sasha.js - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 401 2 5 11
+2016-02-17 01:48:47 ::1 GET /SashaChatHelp/Sasha/Sasha.js - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 200 0 0 4
+2016-02-17 01:48:47 ::1 GET /SashaChatHelp/Scripts/jquery-2.2.0.min.js - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 200 0 0 170
+2016-02-17 01:48:47 ::1 GET /signalr/hubs _=1455673728269 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 http://localhost/SashaChatHelp/Sasha/index.html 404 0 2 4
+2016-02-17 01:49:16 ::1 GET /signalr/hubs/ - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 404 0 2 5
+2016-02-17 01:49:25 ::1 GET /sasha/signalr/hubs/ - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 404 0 2 2
+2016-02-17 01:49:46 ::1 DEBUG /SashaChatHelp/Sasha/debugattach.aspx - 80 - ::1 - - 401 2 5 11503
+2016-02-17 01:49:46 ::1 DEBUG /SashaChatHelp/Sasha/debugattach.aspx - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 - - 200 0 0 7
+2016-02-17 01:51:12 ::1 DEBUG /SashaChatHelp/debugattach.aspx - 80 - ::1 - - 401 2 5 16753
+2016-02-17 01:51:12 ::1 DEBUG /SashaChatHelp/debugattach.aspx - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 - - 500 0 0 5
+2016-02-17 01:51:15 ::1 GET /SashaChatHelp/Sasha.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:44.0)+Gecko/20100101+Firefox/44.0 - 500 0 0 317
+2016-02-17 01:52:04 ::1 DEBUG /SashaChatHelp/debugattach.aspx - 80 - ::1 - - 401 2 5 11567
+2016-02-17 01:52:04 ::1 DEBUG /SashaChatHelp/debugattach.aspx - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 - - 200 0 0 3

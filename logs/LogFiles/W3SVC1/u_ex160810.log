@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-10 22:46:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-10 22:46:09 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 5 4096
+2016-08-10 22:46:11 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 1 3221225581 36
+2016-08-10 22:46:15 ::1 GET / - 80 LAPTOP\sm538x ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 200 0 0 510
+2016-08-10 22:46:15 ::1 GET /iis-85.png - 80 LAPTOP\sm538x ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://localhost/ 304 0 0 13

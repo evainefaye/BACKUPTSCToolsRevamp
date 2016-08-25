@@ -1,0 +1,50 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-10 22:48:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-10 22:48:36 ::1 GET /index.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 64 7589
+2016-08-10 22:48:36 ::1 GET /index.htl - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 64 10257
+2016-08-10 22:49:08 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 2 5 14989
+2016-08-10 22:49:08 ::1 GET / - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 200 0 0 242
+2016-08-10 22:49:10 ::1 GET /favicon.ico - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 http://localhost/ 404 0 2 62
+2016-08-10 22:49:26 ::1 GET /index.htl - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 404 0 2 2
+2016-08-10 22:49:33 ::1 GET /index.html - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 200 0 0 0
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-10 22:53:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-10 22:53:42 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 2 5 794
+2016-08-10 22:53:42 ::1 GET / - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 3 0 464
+2016-08-10 22:53:52 ::1 GET / - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 3 0 84
+2016-08-10 22:53:59 ::1 GET / - 80 LAPTOP\sm538x ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 3 0 5
+2016-08-10 22:54:07 ::1 GET / - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 3 0 28
+2016-08-10 22:54:11 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 1 3221225581 38
+2016-08-10 22:55:08 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 3 0 151
+2016-08-10 22:55:08 ::1 GET / - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 3 0 34
+2016-08-10 22:56:06 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 3 0 14
+2016-08-10 22:56:06 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 1 2148074252 8
+2016-08-10 22:56:06 ::1 GET / - 80 MicrosoftAccount\stephanie@hawkbane.net ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 3 0 15
+2016-08-10 22:56:09 ::1 GET / - 80 LAPTOP\sm538x ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 3 0 5
+2016-08-10 22:56:13 ::1 GET / - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 3 0 2
+2016-08-10 22:56:18 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 1 3221225581 4
+2016-08-10 22:56:32 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 401 3 0 201
+2016-08-10 22:56:56 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 46
+2016-08-10 22:56:56 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 46
+2016-08-10 22:57:02 ::1 GET /index.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 200 0 0 15
+2016-08-10 22:57:35 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 5 15
+2016-08-10 22:57:35 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 5 0
+2016-08-10 22:57:39 ::1 GET /index.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 5 0
+2016-08-10 22:57:41 ::1 GET /index.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 1 3221225581 0
+2016-08-10 22:57:51 ::1 GET /index.html - 80 LAPTOP\sm538x ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 304 0 0 31
+2016-08-10 22:58:20 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 5 0
+2016-08-10 22:58:20 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 5 15
+2016-08-10 22:58:23 ::1 GET /index.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 5 15
+2016-08-10 22:58:41 ::1 GET /index.html - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 304 0 0 0
+2016-08-10 23:00:00 ::1 GET /index.html - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 5 0
+2016-08-10 23:00:00 ::1 GET /index.html - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 0 2 15
+2016-08-10 23:00:07 ::1 GET /index.htm - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 5 0
+2016-08-10 23:00:07 ::1 GET /index.htm - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 200 0 0 0
+2016-08-10 23:00:11 ::1 GET /index.htm - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 5 15
+2016-08-10 23:00:11 ::1 GET /index.htm - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 200 0 0 0
+2016-08-10 23:00:11 ::1 GET /index.htm - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 401 2 5 0
+2016-08-10 23:00:11 ::1 GET /index.htm - 80 LAPTOP\stephanie ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 200 0 0 15
